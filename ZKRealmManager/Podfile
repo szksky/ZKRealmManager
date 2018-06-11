@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+
+use_frameworks!
+
+target "ZKRealmManager" do
+
+    pod 'RealmSwift'            #数据库存储
+   
+end
